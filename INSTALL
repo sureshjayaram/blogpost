@@ -1,0 +1,2 @@
+* To install BlogPost, run:
+	$python setup.py install
